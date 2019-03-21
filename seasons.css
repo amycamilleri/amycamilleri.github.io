@@ -1,0 +1,93 @@
+#wrap{
+		width: 70%; 
+		margin: 0 auto;
+}
+header img{
+	margin: 0 auto;
+	height: 40 px;
+	width: 100%;
+	
+}
+
+header{
+	background-color: white;
+	padding:0 px;
+	text-align: center;
+	font-size: 60px;
+}
+section{
+	padding: 10px;
+	background-color: white;
+	overflow: auto
+	
+}
+#wrap{
+	width: 70%;
+	margin: 0 auto;
+}
+
+body{
+	font-family: Arial;
+/*background-color: #fc9905;*/
+	margin: 0;
+	padding: 0;
+	background-image:url(water.jpg);
+	background-repeat: repeat-x;
+background-size: 100%;
+	
+}
+nav{
+	background-color: tan;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	font-family: Comic Sans;
+	
+}
+p img{
+	width:45%;
+	float:right;
+	
+}
+nav a {
+	color: white;
+	text-decoration: none;
+	padding: 15px;
+	
+}
+nav a:hover{
+	color: blue;	
+	background-color: White;
+	
+}
+nav li{
+display: inline;
+	padding: 20px;
+	/*padding:20px;*/
+}
+nav ul{
+	margin:0;
+	padding:0
+}
+.button{
+	background-color: blue;
+	color: white;
+	text-decoration: none;
+	padding: 12px;
+	border-radius: 8px;
+	display:inline-block;
+	Margin: 20px 0px;
+
+}
+
+a.button:hover{
+	background-color:tan;
+}
+
+
+footer{
+background-color:blue;
+color:white;
+padding:20px;
+text-align:center;
+}
